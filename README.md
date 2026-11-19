@@ -1,1 +1,3 @@
-# takayoshi-cc
+# TAKAYOSHI CC
+
+パスワード付きのページです。
